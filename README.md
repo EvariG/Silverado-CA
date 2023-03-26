@@ -1,10 +1,8 @@
 
-<h style="font-size:30px;font-family:Fantasy"> Mollusca fossils </h>
+<h1 style="font-size:30px;font-family:Fantasy"> Mollusca fossils </h>
 <br>
 <p> Part of the Ladd Formation - easily noticed from Black Star canyon trail</p>
-<br>
 <p> Late Cretaceous, approx~90-60 Ma old! </p>
 <br>
-<h1>Reference</h1>
-<br>
-<p> Macrostrat used in age dating: https://macrostrat.org/ </p>
+<h>Reference</h>
+<p> Macrostrat used for ages: https://macrostrat.org/ </p>
