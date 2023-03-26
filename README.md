@@ -4,4 +4,5 @@
 <p> Late Cretaceous, approx~90-60 Ma old! </p>
 <br>
 <h>Reference</h>
-<p> Macrostrat used for ages: https://macrostrat.org/ </p>
+<p> [1] Macrostrat - "https://macrostrat.org/" <br>
+[2] USGS Database - "https://ngmdb.usgs.gov/Geolex/UnitRefs/LaddRefs_5841.html" </q> </p>
