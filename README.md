@@ -1,5 +1,5 @@
 
-<h1 style="font-size:30px;font-family:Fantasy"> Mollusca fossils </h1>
+<h1 style="font-size:30px"> Mollusca fossils </h1>
 <p> Part of the Ladd Formation - easily noticed from Black Star canyon trail</p>
 <p> Late Cretaceous, approx~90-60 Ma old! </p>
 <br>
